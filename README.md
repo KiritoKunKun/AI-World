@@ -2,7 +2,7 @@
 
 AI World is a game developed in Unity
 
-![](https://i.imgur.com/96EtWLT.gif)
+![](https://i.imgur.com/LYXx5Ub.gif)
 
 The game includes the following AI algorithms:
 - Genetic Algorithm
