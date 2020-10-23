@@ -1,0 +1,2747 @@
+fileFormatVersion: 2
+guid: e806454b528d6d84c88a79fa34bd5e77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2807065116554187727
+    second: TilesTropical_0
+  - first:
+      213: -8504031442211093261
+    second: TilesTropical_1
+  - first:
+      213: 3164513316655835706
+    second: TilesTropical_2
+  - first:
+      213: 3734667447318825029
+    second: TilesTropical_3
+  - first:
+      213: -8477743587343634879
+    second: TilesTropical_4
+  - first:
+      213: -8027740961692953967
+    second: TilesTropical_5
+  - first:
+      213: 1048252024096758302
+    second: TilesTropical_6
+  - first:
+      213: -4383898116428761816
+    second: TilesTropical_7
+  - first:
+      213: -773744037697451262
+    second: TilesTropical_8
+  - first:
+      213: -1410024726268517545
+    second: TilesTropical_9
+  - first:
+      213: 5279246865517875086
+    second: TilesTropical_10
+  - first:
+      213: 7310293316897098946
+    second: TilesTropical_11
+  - first:
+      213: 4051461173225085108
+    second: TilesTropical_12
+  - first:
+      213: 911663058007364516
+    second: TilesTropical_13
+  - first:
+      213: -6660218847394332494
+    second: TilesTropical_14
+  - first:
+      213: -9030875332129028087
+    second: TilesTropical_15
+  - first:
+      213: -5709136204405579680
+    second: TilesTropical_16
+  - first:
+      213: 8937601689842671751
+    second: TilesTropical_17
+  - first:
+      213: 283199607195226494
+    second: TilesTropical_18
+  - first:
+      213: -1524001038272092164
+    second: TilesTropical_19
+  - first:
+      213: 9095737085138275853
+    second: TilesTropical_20
+  - first:
+      213: -4359494517163591211
+    second: TilesTropical_21
+  - first:
+      213: -2117287197816021302
+    second: TilesTropical_22
+  - first:
+      213: 8838845367743697350
+    second: TilesTropical_23
+  - first:
+      213: -5957780978183114417
+    second: TilesTropical_24
+  - first:
+      213: 7443808809040671066
+    second: TilesTropical_25
+  - first:
+      213: 6546408044327411017
+    second: TilesTropical_26
+  - first:
+      213: -5637863706468936061
+    second: TilesTropical_27
+  - first:
+      213: -1539562268119107130
+    second: TilesTropical_28
+  - first:
+      213: -2903775193560700864
+    second: TilesTropical_29
+  - first:
+      213: 1900804428220415994
+    second: TilesTropical_30
+  - first:
+      213: -3201258392535870789
+    second: TilesTropical_31
+  - first:
+      213: 5047115634481447972
+    second: TilesTropical_32
+  - first:
+      213: -1683622020344889376
+    second: TilesTropical_33
+  - first:
+      213: -4012222604685923172
+    second: grass
+  - first:
+      213: 6923096286345599158
+    second: TilesTropical_35
+  - first:
+      213: -942753851128421666
+    second: TilesTropical_36
+  - first:
+      213: -6832515588122224002
+    second: TilesTropical_37
+  - first:
+      213: 6534727052592321709
+    second: TilesTropical_38
+  - first:
+      213: -5537042364461847483
+    second: TilesTropical_39
+  - first:
+      213: 50858639938895698
+    second: TilesTropical_40
+  - first:
+      213: 2280920382434407367
+    second: TilesTropical_41
+  - first:
+      213: 603191618076514140
+    second: TilesTropical_42
+  - first:
+      213: -3102921690795847552
+    second: TilesTropical_43
+  - first:
+      213: 2725925524478718715
+    second: TilesTropical_44
+  - first:
+      213: 3392849791036964977
+    second: TilesTropical_45
+  - first:
+      213: 7243719998907081630
+    second: TilesTropical_46
+  - first:
+      213: -8900675848924648309
+    second: TilesTropical_47
+  - first:
+      213: 6054578338119121478
+    second: TilesTropical_48
+  - first:
+      213: -7909439395244837869
+    second: TilesTropical_49
+  - first:
+      213: -7491743774579869731
+    second: TilesTropical_50
+  - first:
+      213: -9049033062325614602
+    second: TilesTropical_51
+  - first:
+      213: -8039933161080967067
+    second: TilesTropical_52
+  - first:
+      213: 9194199899465761236
+    second: TilesTropical_53
+  - first:
+      213: -1643036305078729799
+    second: TilesTropical_54
+  - first:
+      213: 3754931354581672069
+    second: TilesTropical_55
+  - first:
+      213: 5237241974067528968
+    second: TilesTropical_56
+  - first:
+      213: -4684097386991534538
+    second: TilesTropical_57
+  - first:
+      213: 7285706596761856413
+    second: TilesTropical_58
+  - first:
+      213: 5960482031897504602
+    second: TilesTropical_59
+  - first:
+      213: 4372019120902300178
+    second: TilesTropical_60
+  - first:
+      213: 3389758486077250225
+    second: TilesTropical_61
+  - first:
+      213: -2681318031723939668
+    second: water
+  - first:
+      213: 8836213515246264959
+    second: TilesTropical_63
+  - first:
+      213: -1918282651653610461
+    second: TilesTropical_64
+  - first:
+      213: 1286944842705295496
+    second: TilesTropical_65
+  - first:
+      213: -8429974135919486003
+    second: TilesTropical_66
+  - first:
+      213: 7669809891293630078
+    second: TilesTropical_67
+  - first:
+      213: -1086263366909016324
+    second: TilesTropical_68
+  - first:
+      213: 2819949082743929010
+    second: TilesTropical_69
+  - first:
+      213: 1542872673739709119
+    second: TilesTropical_70
+  - first:
+      213: 2516496685269420009
+    second: TilesTropical_71
+  - first:
+      213: 1295148068613019372
+    second: TilesTropical_72
+  - first:
+      213: 1824602864204666727
+    second: TilesTropical_73
+  - first:
+      213: -4108268832898136057
+    second: ocean
+  - first:
+      213: -7177219272850492382
+    second: TilesTropical_75
+  - first:
+      213: -2547912771449066422
+    second: TilesTropical_76
+  - first:
+      213: -2013069064288692536
+    second: TilesTropical_77
+  - first:
+      213: 7197322568659209386
+    second: TilesTropical_78
+  - first:
+      213: -7488109825785889255
+    second: TilesTropical_79
+  - first:
+      213: 8653022808589501042
+    second: grass
+  - first:
+      213: 8849342519436339862
+    second: water
+  - first:
+      213: 1988893744268750154
+    second: dirt
+  - first:
+      213: -5724326259289519798
+    second: TilesTropical_83
+  - first:
+      213: 7879662012894411955
+    second: TilesTropical_84
+  - first:
+      213: -4901842300801519274
+    second: TilesTropical_85
+  - first:
+      213: 1767517735381004381
+    second: sand
+  - first:
+      213: 376374677436191573
+    second: ocean
+  - first:
+      213: 2298195106510880531
+    second: TilesTropical_88
+  - first:
+      213: 1688692816205515307
+    second: TilesTropical_89
+  - first:
+      213: -3045257682811546767
+    second: TilesTropical_90
+  - first:
+      213: -3768693998118809309
+    second: TilesTropical_91
+  - first:
+      213: 5894412274232669266
+    second: TilesTropical_92
+  - first:
+      213: 4317090025590942408
+    second: TilesTropical_93
+  - first:
+      213: 5942092508353148641
+    second: TilesTropical_94
+  - first:
+      213: -4231491194059619549
+    second: TilesTropical_95
+  - first:
+      213: 5206697936849327760
+    second: TilesTropical_0
+  - first:
+      213: -2527997630256850314
+    second: TilesTropical_1
+  - first:
+      213: 8080524184919815938
+    second: TilesTropical_2
+  - first:
+      213: -3756372715644902922
+    second: TilesTropical_3
+  - first:
+      213: -5317159936538114571
+    second: TilesTropical_4
+  - first:
+      213: 6055469278493536642
+    second: TilesTropical_5
+  - first:
+      213: -1070014696276045346
+    second: TilesTropical_6
+  - first:
+      213: -8596823656297676503
+    second: TilesTropical_7
+  - first:
+      213: -287287980249892321
+    second: TilesTropical_8
+  - first:
+      213: 6998734517938207001
+    second: TilesTropical_9
+  - first:
+      213: 8914778463508832652
+    second: TilesTropical_10
+  - first:
+      213: 582549255961924111
+    second: TilesTropical_11
+  - first:
+      213: 7246097758604458461
+    second: TilesTropical_12
+  - first:
+      213: -1328777164154341880
+    second: TilesTropical_13
+  - first:
+      213: -6287551016770075725
+    second: TilesTropical_14
+  - first:
+      213: -9205919960361413909
+    second: TilesTropical_15
+  - first:
+      213: 8837653200130552296
+    second: TilesTropical_16
+  - first:
+      213: -8198914530519378006
+    second: TilesTropical_17
+  - first:
+      213: -4995579011611738838
+    second: TilesTropical_18
+  - first:
+      213: -204738708822717068
+    second: TilesTropical_19
+  - first:
+      213: 3194100218153648155
+    second: TilesTropical_20
+  - first:
+      213: 790062945537904842
+    second: TilesTropical_21
+  - first:
+      213: -6226510791428276147
+    second: TilesTropical_22
+  - first:
+      213: 7193676959566017049
+    second: TilesTropical_23
+  - first:
+      213: -4001396028262134850
+    second: TilesTropical_24
+  - first:
+      213: 3180219663480726808
+    second: TilesTropical_25
+  - first:
+      213: 8925449966847686358
+    second: TilesTropical_26
+  - first:
+      213: 8932539764757394636
+    second: TilesTropical_27
+  - first:
+      213: 4305152682168975566
+    second: TilesTropical_28
+  - first:
+      213: 212301073279202911
+    second: TilesTropical_29
+  - first:
+      213: -2485634547219231447
+    second: TilesTropical_30
+  - first:
+      213: -8906117622898032949
+    second: TilesTropical_31
+  - first:
+      213: 6789114684970807129
+    second: TilesTropical_32
+  - first:
+      213: 7418636769113466206
+    second: TilesTropical_33
+  - first:
+      213: 2697780814537407973
+    second: TilesTropical_34
+  - first:
+      213: 2044342367394063618
+    second: TilesTropical_35
+  - first:
+      213: -6577817850871253521
+    second: TilesTropical_36
+  - first:
+      213: 1388086651736185459
+    second: TilesTropical_37
+  - first:
+      213: -7638682446507818064
+    second: TilesTropical_38
+  - first:
+      213: -7142655861890596149
+    second: TilesTropical_39
+  - first:
+      213: -2675666849322516870
+    second: TilesTropical_40
+  - first:
+      213: 7376441397676368232
+    second: TilesTropical_41
+  - first:
+      213: -6438712062250403817
+    second: TilesTropical_42
+  - first:
+      213: -4829308848179764973
+    second: TilesTropical_43
+  - first:
+      213: -7367959646790501530
+    second: TilesTropical_44
+  - first:
+      213: 618590945260432495
+    second: TilesTropical_45
+  - first:
+      213: -4878597617649453785
+    second: TilesTropical_46
+  - first:
+      213: -5314191255640771783
+    second: TilesTropical_47
+  - first:
+      213: -6358144697659781522
+    second: TilesTropical_48
+  - first:
+      213: -719902225859321299
+    second: TilesTropical_49
+  - first:
+      213: -7645365712761255532
+    second: TilesTropical_50
+  - first:
+      213: 3546069693544604584
+    second: TilesTropical_51
+  - first:
+      213: 7116275561421118516
+    second: TilesTropical_52
+  - first:
+      213: -5529558078389237852
+    second: TilesTropical_53
+  - first:
+      213: -5349718608600276785
+    second: TilesTropical_54
+  - first:
+      213: -1276808301126023241
+    second: TilesTropical_55
+  - first:
+      213: -4119127114419006649
+    second: TilesTropical_56
+  - first:
+      213: -1930018595273537443
+    second: TilesTropical_57
+  - first:
+      213: 3575637923749337661
+    second: TilesTropical_58
+  - first:
+      213: -7015769607177909316
+    second: TilesTropical_59
+  - first:
+      213: 1740228245242928629
+    second: TilesTropical_60
+  - first:
+      213: 1087236902613860450
+    second: TilesTropical_61
+  - first:
+      213: 7001892054793669488
+    second: TilesTropical_62
+  - first:
+      213: 3500486716869236386
+    second: TilesTropical_63
+  - first:
+      213: -1732319549036789357
+    second: TilesTropical_64
+  - first:
+      213: -418278608159948141
+    second: TilesTropical_65
+  - first:
+      213: -8697162053063950376
+    second: TilesTropical_66
+  - first:
+      213: 1368065687594666945
+    second: TilesTropical_67
+  - first:
+      213: -5433460986914042602
+    second: TilesTropical_68
+  - first:
+      213: 3576968820524536848
+    second: TilesTropical_69
+  - first:
+      213: 6347833618389583845
+    second: TilesTropical_70
+  - first:
+      213: 7638944785689051211
+    second: TilesTropical_71
+  - first:
+      213: -7007775523659806710
+    second: TilesTropical_72
+  - first:
+      213: -3963177238560071406
+    second: TilesTropical_73
+  - first:
+      213: 2406736917368322832
+    second: ocean
+  - first:
+      213: 3890055249679117985
+    second: TilesTropical_75
+  - first:
+      213: 1886909907860804231
+    second: TilesTropical_76
+  - first:
+      213: 5384517180738750217
+    second: TilesTropical_77
+  - first:
+      213: 1190753693585998787
+    second: TilesTropical_78
+  - first:
+      213: -8211713648150959113
+    second: TilesTropical_79
+  - first:
+      213: 1674725035236497208
+    second: grass
+  - first:
+      213: 5458108865110604163
+    second: water
+  - first:
+      213: 249064434084222234
+    second: dirt
+  - first:
+      213: 2115857309557921038
+    second: TilesTropical_83
+  - first:
+      213: 5942521935759276521
+    second: TilesTropical_84
+  - first:
+      213: 3279066036537959765
+    second: TilesTropical_85
+  - first:
+      213: 8861506525197055440
+    second: sand
+  - first:
+      213: 8431942153995548730
+    second: ocean
+  - first:
+      213: 5963794304819036078
+    second: TilesTropical_88
+  - first:
+      213: -6484483162171507659
+    second: TilesTropical_89
+  - first:
+      213: 2951972463890079873
+    second: TilesTropical_90
+  - first:
+      213: 8569915217186931653
+    second: TilesTropical_91
+  - first:
+      213: -7319591814551943342
+    second: TilesTropical_92
+  - first:
+      213: -6283051658438732731
+    second: TilesTropical_93
+  - first:
+      213: 7206090452010480403
+    second: TilesTropical_94
+  - first:
+      213: 543361541445467810
+    second: TilesTropical_95
+  - first:
+      213: 165089991189304073
+    second: TilesTropical_34
+  - first:
+      213: 64753079208822810
+    second: TilesTropical_62
+  - first:
+      213: 8653022808589501042
+    second: grass
+  - first:
+      213: 8849342519436339862
+    second: water
+  - first:
+      213: 249064434084222234
+    second: dirt
+  - first:
+      213: 8861506525197055440
+    second: sand
+  - first:
+      213: 8431942153995548730
+    second: TilesTropical_87
+  - first:
+      213: 1674725035236497208
+    second: grass
+  - first:
+      213: 5458108865110604163
+    second: water
+  - first:
+      213: 1988893744268750154
+    second: dirt
+  - first:
+      213: 1767517735381004381
+    second: sand
+  - first:
+      213: 376374677436191573
+    second: TilesTropical_87
+  - first:
+      213: 2406736917368322832
+    second: ocean
+  - first:
+      213: 8653022808589501042
+    second: grass
+  - first:
+      213: 8849342519436339862
+    second: water
+  - first:
+      213: 249064434084222234
+    second: dirt
+  - first:
+      213: 8861506525197055440
+    second: sand
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesTropical_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d9a2ff28e14840800000000000000
+      internalID: 5206697936849327760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad2879c8fbaecd0800000000000000
+      internalID: -2527997630256850314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20739190fe9c32070800000000000000
+      internalID: 8080524184919815938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f12400daeeaedbc0800000000000000
+      internalID: -3756372715644902922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f505b09537a536b0800000000000000
+      internalID: -5317159936538114571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f5ecb939590450800000000000000
+      internalID: 6055469278493536642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d40c8d4b8621f0800000000000000
+      internalID: -1070014696276045346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921c3b9be62f1b880800000000000000
+      internalID: -8596823656297676503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a37f4aa19530cf0800000000000000
+      internalID: -287287980249892321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b8f296ff702160800000000000000
+      internalID: 6998734517938207001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812fb0b7c7a7bb70800000000000000
+      internalID: 8914778463508832652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0257c93671a51800800000000000000
+      internalID: 582549255961924111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97f5d158f4f8460800000000000000
+      internalID: 7246097758604458461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806fde8953c3f8de0800000000000000
+      internalID: -1328777164154341880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b30642c9a12eb8a0800000000000000
+      internalID: -6287551016770075725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2daf332900e3080800000000000000
+      internalID: -9205919960361413909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e130e9f2c6a5aa70800000000000000
+      internalID: 8837653200130552296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa79a989caa973e80800000000000000
+      internalID: -8198914530519378006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3c7d4b532caab0800000000000000
+      internalID: -4995579011611738838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d89d4aa3f982df0800000000000000
+      internalID: -204738708822717068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10cb00b939b35c20800000000000000
+      internalID: 3194100218153648155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac05cf2201ed6fa00800000000000000
+      internalID: 790062945537904842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4008c6bc6df699a0800000000000000
+      internalID: -6226510791428276147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91238dbb41315d360800000000000000
+      internalID: 7193676959566017049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc6c9338f2878c0800000000000000
+      internalID: -4001396028262134850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152b753fe8622c20800000000000000
+      internalID: 3180219663480726808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67a7ea4719ddb70800000000000000
+      internalID: 8925449966847686358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47a64e691c6fb70800000000000000
+      internalID: 8932539764757394636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec080840e89febb30800000000000000
+      internalID: 4305152682168975566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56bd3a83be32f200800000000000000
+      internalID: 212301073279202911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0f8b7c80418dd0800000000000000
+      internalID: -2485634547219231447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef057653d176480800000000000000
+      internalID: -8906117622898032949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fa211f5d7c73e50800000000000000
+      internalID: 6789114684970807129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e8acf5da44f660800000000000000
+      internalID: 7418636769113466206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205edcf3d86fe5c10800000000000000
+      internalID: 2044342367394063618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe57891f385e6b4a0800000000000000
+      internalID: -6577817850871253521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a52329479734310800000000000000
+      internalID: 1388086651736185459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c3ef49c2fdf590800000000000000
+      internalID: -7638682446507818064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc24627465030ec90800000000000000
+      internalID: -7142655861890596149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb7d44d2f1edad0800000000000000
+      internalID: -2675666849322516870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616cfe7e526e5660800000000000000
+      internalID: 7376441397676368232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ba8e3e7915a6a0800000000000000
+      internalID: -6438712062250403817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31128997039dafcb0800000000000000
+      internalID: -4829308848179764973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb3a50dbfbfb990800000000000000
+      internalID: -7367959646790501530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6581ff2da59800800000000000000
+      internalID: 618590945260432495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ffed805dbb4cb0800000000000000
+      internalID: -4878597617649453785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337b0375333046b0800000000000000
+      internalID: -5314191255640771783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8479951553c7a0800000000000000
+      internalID: -6358144697659781522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2264a26db46206f0800000000000000
+      internalID: -719902225859321299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4990ae0246436e590800000000000000
+      internalID: -7645365712761255532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a32180399b263130800000000000000
+      internalID: 3546069693544604584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c9c426be612c260800000000000000
+      internalID: 7116275561421118516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c7bc79301343b0800000000000000
+      internalID: -5529558078389237852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0651ef44bf1c5b0800000000000000
+      internalID: -5349718608600276785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b70d1d6d9dd74ee0800000000000000
+      internalID: -1276808301126023241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7431068a6bbe5d6c0800000000000000
+      internalID: -4119127114419006649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5882d230523735e0800000000000000
+      internalID: -1930018595273537443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9e724fb73f9130800000000000000
+      internalID: 3575637923749337661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbcd22a6baf2ae90800000000000000
+      internalID: -7015769607177909316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd5ec17e58862810800000000000000
+      internalID: 1740228245242928629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cef6d334a61f00800000000000000
+      internalID: 1087236902613860450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6d6f36f1a349030800000000000000
+      internalID: 3500486716869236386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39182326c8095f7e0800000000000000
+      internalID: -1732319549036789357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924b7f62d9f13af0800000000000000
+      internalID: -418278608159948141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfbd1931397d4780800000000000000
+      internalID: -8697162053063950376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb0b7a9e785cf210800000000000000
+      internalID: 1368065687594666945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8b0625087894b0800000000000000
+      internalID: -5433460986914042602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0145300d032f3a130800000000000000
+      internalID: 3576968820524536848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c46d2b09081850800000000000000
+      internalID: 6347833618389583845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4081d94fcbf20a60800000000000000
+      internalID: 7638944785689051211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08849e3a416fbe90800000000000000
+      internalID: -7007775523659806710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211a6b1ac47fff8c0800000000000000
+      internalID: -3963177238560071406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bbe839972766120800000000000000
+      internalID: 2406736917368322832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae64c1a3a04cf530800000000000000
+      internalID: 3890055249679117985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782553d5096af2a10800000000000000
+      internalID: 1886909907860804231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907cbe4f8d5a9ba40800000000000000
+      internalID: 5384517180738750217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38d29ec28668010800000000000000
+      internalID: 1190753693585998787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb2cbcc1f12a0e80800000000000000
+      internalID: -8211713648150959113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051d9343090d5d10800000000000000
+      internalID: 2115857309557921038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9f5ea3734187250800000000000000
+      internalID: 5942521935759276521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555a4eedf25918d20800000000000000
+      internalID: 3279066036537959765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf7c3c9257a3c250800000000000000
+      internalID: 5963794304819036078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf3c69bec7206a0800000000000000
+      internalID: -6484483162171507659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18027e0d05387f820800000000000000
+      internalID: 2951972463890079873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c344a31c747ee670800000000000000
+      internalID: 8569915217186931653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25746c886069b6a90800000000000000
+      internalID: -7319591814551943342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54494514ecd1ec8a0800000000000000
+      internalID: -6283051658438732731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133b6b261d210460800000000000000
+      internalID: 7206090452010480403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae377e61786a8700800000000000000
+      internalID: 543361541445467810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9039fc8e8748a4200800000000000000
+      internalID: 165089991189304073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ca5c159c06e000800000000000000
+      internalID: 64753079208822810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTropical_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553590766c6293500800000000000000
+      internalID: 376374677436191573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27284531666b51870800000000000000
+      internalID: 8653022808589501042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a63c6b22e2fca70800000000000000
+      internalID: 8849342519436339862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1516cf78cad47300800000000000000
+      internalID: 249064434084222234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53d210c356afa70800000000000000
+      internalID: 8861506525197055440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

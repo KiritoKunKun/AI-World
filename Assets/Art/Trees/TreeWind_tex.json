@@ -1,0 +1,15 @@
+{
+  "width": 256,
+  "imagePath": "TreeWind_tex.png",
+  "SubTexture": [
+    {
+      "width": 192,
+      "y": 1,
+      "height": 192,
+      "name": "Tree",
+      "x": 1
+    }
+  ],
+  "height": 256,
+  "name": "TreeWind"
+}
