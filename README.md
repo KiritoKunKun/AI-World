@@ -1,6 +1,6 @@
 # AI-World
 
-AI World is a game developed in Unity
+AI World is a game developed in Unity where the player takes part in a world where only the strongest survives. Basically, you can say that it is about the Darwin's theory "Natural Selection".
 
 ![](https://i.imgur.com/LYXx5Ub.gif)
 
